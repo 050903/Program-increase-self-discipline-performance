@@ -1,6 +1,7 @@
 ---
 
 # Program-increase-self-discipline-performance
+![image](https://github.com/user-attachments/assets/20fad4b3-d826-4889-be88-922b8fe6d857)
 
 ## 🚀 Opening
 
