@@ -33,6 +33,7 @@ The **"Trợ Lý Hiệu Suất Cá Nhân v2.0"** (Personal Performance Assistant
 ![image](https://github.com/user-attachments/assets/09bf618f-5b98-46f4-abda-231124d7f250)
 ![image](https://github.com/user-attachments/assets/2141f904-f7f6-4a1a-a093-87a58b2b1d9e)
 ![image](https://github.com/user-attachments/assets/417d80cf-941f-470c-8489-2ab72e3f46aa)
+![image](https://github.com/user-attachments/assets/ac5c663e-53cf-431f-aa10-3bff303f98b4)
 
 ---
 
