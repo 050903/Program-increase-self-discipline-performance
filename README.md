@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/09bf618f-5b98-46f4-abda-231124d7f250)
 ---
 
 # Program-increase-self-discipline-performance
@@ -31,6 +30,7 @@ The **"Trợ Lý Hiệu Suất Cá Nhân v2.0"** (Personal Performance Assistant
 ![image](https://github.com/user-attachments/assets/0126a9b3-d18a-45d8-b0af-a3af2f7b890c)
 ![image](https://github.com/user-attachments/assets/3a5e25e9-dd79-4eb6-be9a-e7c3d6684b97)
 ![image](https://github.com/user-attachments/assets/2727e370-53a6-40cd-a26f-5057d1b78dfe)
+![image](https://github.com/user-attachments/assets/09bf618f-5b98-46f4-abda-231124d7f250)
 
 ---
 
