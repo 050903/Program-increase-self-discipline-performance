@@ -1,0 +1,23 @@
+[
+  {
+    "timestamp": "2025-06-11T10:15:49.978605",
+    "category": "Tiết kiệm tiền",
+    "activity": "tiet_kiem",
+    "quantity": 100000.0,
+    "points": 10000.0
+  },
+  {
+    "timestamp": "2025-06-11T10:16:07.214564",
+    "category": "Đọc sách",
+    "activity": "doc_sach_chu",
+    "quantity": 500.0,
+    "points": 100.0
+  },
+  {
+    "timestamp": "2025-06-11T10:16:18.319130",
+    "category": "Kỷ luật bản thân",
+    "activity": "day_som",
+    "quantity": 50.0,
+    "points": 150.0
+  }
+]

@@ -1,0 +1,43 @@
+{
+    "Tiếng Anh": {
+      "name": "Tiếng Anh",
+      "weight": 0.25,
+      "activities": {
+        "hoc_tu_vung": { "name": "Học từ vựng mới", "unit": "từ", "impact_per_unit": 0.5 },
+        "nghe_podcast": { "name": "Nghe podcast/tin tức", "unit": "phút", "impact_per_unit": 0.1 },
+        "lam_bai_tap": { "name": "Làm bài tập ngữ pháp", "unit": "bài", "impact_per_unit": 5 }
+      }
+    },
+    "Lập trình": {
+      "name": "Lập trình",
+      "weight": 0.30,
+      "activities": {
+        "hoc_ly_thuyet": { "name": "Học lý thuyết/xem tutorial", "unit": "phút", "impact_per_unit": 0.15 },
+        "code_project": { "name": "Code dự án cá nhân", "unit": "giờ", "impact_per_unit": 10 },
+        "giai_bai_tap": { "name": "Giải bài tập (LeetCode, etc.)", "unit": "bài", "impact_per_unit": 4 }
+      }
+    },
+    "Đọc sách": {
+      "name": "Đọc sách",
+      "weight": 0.15,
+      "activities": {
+        "doc_sach_chu": { "name": "Đọc sách chữ", "unit": "trang", "impact_per_unit": 0.2 },
+        "nghe_sach_noi": { "name": "Nghe sách nói", "unit": "phút", "impact_per_unit": 0.05 }
+      }
+    },
+    "Tiết kiệm tiền": {
+      "name": "Tiết kiệm tiền",
+      "weight": 0.15,
+      "activities": {
+        "tiet_kiem": { "name": "Bỏ vào quỹ tiết kiệm", "unit": "10.000 VNĐ", "impact_per_unit": 0.1 }
+      }
+    },
+    "Kỷ luật bản thân": {
+      "name": "Kỷ luật bản thân",
+      "weight": 0.15,
+      "activities": {
+        "day_som": { "name": "Dậy sớm đúng giờ", "unit": "lần", "impact_per_unit": 3 },
+        "thi_duc": { "name": "Tập thể dục", "unit": "phút", "impact_per_unit": 0.2 }
+      }
+    }
+  }

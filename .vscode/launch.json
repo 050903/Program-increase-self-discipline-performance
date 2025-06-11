@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Chạy file đang mở",
+            "type": "debugpy",          // <-- ĐÃ SỬA: Thay "python" bằng "debugpy"
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "cwd": "${fileDirname}"      // <-- ĐÃ THÊM: Sửa lỗi "file not found"
+        }
+    ]
+}
