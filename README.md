@@ -11,6 +11,7 @@ This project is a personal performance assistant application designed to help us
 
 ![image](https://github.com/user-attachments/assets/9316ef41-36c8-4088-8859-d818946c5045)
 ![image](https://github.com/user-attachments/assets/e6b966c3-f646-40ff-8b1c-ee2137b74b2d)
+![image](https://github.com/user-attachments/assets/a0618361-82c6-4685-9da8-d867cbe09118)
 
 ---
 
